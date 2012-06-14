@@ -1,5 +1,6 @@
 This is the test file for git test
 
 asdfjkaklsjdflk
+more changes in the middle
 I made some changes
 
